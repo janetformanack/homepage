@@ -7,17 +7,11 @@ output:
     lib_dir: site_libs
     self_contained: no
 navbar:
-  title: Estrella da Boss
+  title: Janet Formanack
   left:
   - text: Home
     href: index.html
     icon: fa-home
-  - text: Research
-    href: research.html
-    icon: fa-flask
-  right:
-  - icon: fa-twitter
-    href: https://twitter.com/another_ant_guy
-    align: right
-  - { icon: "fa-linkedin", href: "https://www.linkedin.com/in/biplabendu/", align: right }
-  - { icon: "fa-facebook", href: "https://www.facebook.com/biplabendu", align: right }
+  - text: Resume
+    href: resume.pdf
+    icon: fa-file

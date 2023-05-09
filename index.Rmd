@@ -1,5 +1,5 @@
 ---
-title: "Welcome Hooman"
+title: ""
 output: 
   html_document:
     theme: yeti
@@ -14,26 +14,52 @@ pacman::p_load(knitr)
 
 ###
 
-```{r, echo=FALSE, fig.cap="Hi! I am Estrella.", out.width = '30%', fig.align='center'}
-knitr::include_graphics("my_smiling_face_here.jpg")
+```{r, echo=FALSE, fig.cap="", out.width = '30%', fig.align='center'}
+knitr::include_graphics("janet_alicia_india.jpeg")
 ```
    
 <h6 style="text-align: center;" markdown="1">
 
-Email: da_boss_estrella [at] hotmail [dot] com
+Email: formanackjanet@gmail.com
 
 </h6>     
 
-I am a budding biolgist always curious about human behavior, especially the temporal patterns in which hoomans do and do not provide food. You can find out more about my day to day activities from some of my hooman friends, such as [Biplabendu Das](https://biplabendu.github.io/homepage/).
+A highly motivated and detail-oriented administrative professional with over 9 years of experience in the healthcare industry supporting high-level executives, managing 35 employees, and office operations. I also have ten years of experience working in a state agency and ten additional years of experience in the property management industry. See my [resume](https://janetformanack.github.io/homepage/resume.pdf) for more details.
 
-
-----------------------------------
-
-## Publications, Tutorials, Talks
+I am seeking a position where I can utilize my organizational skills, attention to detail and customer service to support a team and ensure patient satisfaction.
 
 ##
+##
+##
 
-2. _**Das, B.**, Brouns, R., Will, I., Brachmann, A., de Bekker, C. (2023)_ Using RNASeq to investigate the involvement of the _Ophiocordyceps_ clock in ant host infection and behavioral manipulation. _bioRxiv_ [*PDF*](https://www.biorxiv.org/content/10.1101/2023.01.20.524843v2.abstract)
+## WORK EXPERIENCE
+
+___
+
+#### Executive Assistant to the CEO 
+#### VALLEY PAIN CENTERS
+##### _2014-present_
+
+- Built a successful surgery center from ground level to supervising a team of 35 employees in an Ambulatory
+Surgical Center facility certified by CMS and AAAHC.
+- Managed daily operations and ensured compliance with regulatory requirements.
+
+___
+
+#### Case Manager II 
+#### 	ARIZONA DEPARTMENT OF ECONOMIC SECURITY 
+##### _2004-2014_
+
+- Responsible for intake assessment and re-certification for food stamps, cash assisstance, and medical AHCCCH.
+- Processed thousands of cases over the ten years with an accuracy rate of at least 95%.
+
+___
+
+#### Property Manager
+#### BALCOR PROPERTY MANAGEMENT
+##### _1994-2004_
+
+- Managed 880 apartments, supervised maintanence crew and an office of leasing consultants
 
 
-1. _**Das, B.**, Brachmann, A., de Bekker, C. (2023)_ Both behavior-manipulating and non-manipulating entomopathogenic fungi affect rhythmic gene expression in carpenter ant foragers upon infection. _bioRxiv_ [*PDF*](https://www.biorxiv.org/content/10.1101/2023.01.19.524837v2.abstract)
+___
