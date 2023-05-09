@@ -18,11 +18,11 @@ pacman::p_load(knitr)
 knitr::include_graphics("janet_alicia_india.jpeg")
 ```
    
-<h6 style="text-align: center;" markdown="1">
+<h4 style="text-align: center;" markdown="1">
 
 Email: formanackjanet@gmail.com
 
-</h6>     
+</h4>     
 
 A highly motivated and detail-oriented administrative professional with over 9 years of experience in the healthcare industry supporting high-level executives, managing 35 employees, and office operations. I also have ten years of experience working in a state agency and ten additional years of experience in the property management industry. See my [resume](https://janetformanack.github.io/homepage/resume.pdf) for more details.
 
