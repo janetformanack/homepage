@@ -15,7 +15,7 @@ pacman::p_load(knitr)
 ###
 
 ```{r, echo=FALSE, fig.cap="", out.width = '30%', fig.align='center'}
-knitr::include_graphics("janet_alicia_india.jpeg")
+knitr::include_graphics("janet_dp_9May23.jpeg")
 ```
    
 <h4 style="text-align: center;" markdown="1">
@@ -37,26 +37,26 @@ I am seeking a position where I can utilize my organizational skills, attention 
 ___
 
 #### Executive Assistant to the CEO 
-#### VALLEY PAIN CENTERS
+#### [VALLEY PAIN CENTERS](https://www.valleypaincenters.com/)
 ##### _2014-present_
 
 - Built a successful surgery center from ground level to supervising a team of 35 employees in an Ambulatory
-Surgical Center facility certified by CMS and AAAHC.
+Surgical Center facility certified by Centers for Medicare & Medicaid Services [CMS](https://www.cms.gov/) and Arizona Healthcare Cost Containment System [AHCCCS](https://www.azahcccs.gov/).
 - Managed daily operations and ensured compliance with regulatory requirements.
 
 ___
 
 #### Case Manager II 
-#### 	ARIZONA DEPARTMENT OF ECONOMIC SECURITY 
+#### 	[ARIZONA DEPARTMENT OF ECONOMIC SECURITY](https://des.az.gov/) 
 ##### _2004-2014_
 
-- Responsible for intake assessment and re-certification for food stamps, cash assisstance, and medical AHCCCH.
-- Processed thousands of cases over the ten years with an accuracy rate of at least 95%.
+- Responsible for intake assessment and re-certification for food stamps, cash assisstance, and medical AHCCCS.
+- Processed thousands of cases over the ten years with an accuracy rate of over 95 percent.
 
 ___
 
 #### Property Manager
-#### BALCOR PROPERTY MANAGEMENT
+#### [BALCOR PROPERTY MANAGEMENT](https://www.balcorllc.com/)
 ##### _1994-2004_
 
 - Managed 880 apartments, supervised maintanence crew and an office of leasing consultants
